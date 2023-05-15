@@ -294,23 +294,10 @@ export default defineConfig({
           ...defaultFields(),
         ],
       },
-      // {
-      //   format: "md",
-      //   label: "Pages",
-      //   name: "pages",
-      //   path: "content",
-      //   frontmatterFormat: "yaml",
-      //   match: {
-      //     include: "*",
-      //   },
-      //   fields: [
-      //     ...defaultFields(),
-      //   ],
-      // },
       {
         format: "md",
-        label: "Home",
-        name: "home",
+        label: "Pages",
+        name: "pages",
         path: "content",
         frontmatterFormat: "yaml",
         match: {
