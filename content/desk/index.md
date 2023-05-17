@@ -9,6 +9,8 @@ type: ''
 
 ![](/clients-normalizer.png)
 
+![](</Schermata 2022-11-29 alle 18.00.54.png>)
+
 {{< note title="Title example" >}}
 Write anything you want here.
 
