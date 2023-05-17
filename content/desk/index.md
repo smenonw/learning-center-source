@@ -5,29 +5,7 @@ title: Desk
 type: ''
 ---
 
-![](/connect-project.png)
-
-![](/clients-normalizer.png)
-
-![](</Schermata 2022-11-29 alle 18.00.54.png>)
-
-{{< note title="Title example" >}}
-Write anything you want here.
-
-You may use *the style* you find **appropriate**.
-
-### Point out
-
-* whatever
-* you
-* need
-{{< /note >}}
-
 ## Overview
-
-### Ti
-
-![](</Schermata 2022-11-29 alle 18.00.54.png>)
 
 The Desk is your private space and your favorite place. Here you can find a set of utilities and widgets all for you.
 
