@@ -7,6 +7,8 @@ type: ''
 
 ![](/connect-project.png)
 
+![](/clients-normalizer.png)
+
 {{< note title="Title example" >}}
 Write anything you want here.
 
