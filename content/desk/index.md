@@ -5,8 +5,6 @@ title: Desk
 type: ''
 ---
 
-![](/2017/08/30/Payroll2.png)
-
 ## Overview
 
 The Desk is your private space and your favorite place. Here you can find a set of utilities and widgets all for you.
