@@ -58,7 +58,7 @@ Here you can configure your company by setting:
   * **Chargeable**: the projects in this category are billable
   * **Everybody can plan**: the projects in this category can be planned by everybody, not only by its pm or account
   * **Unlimited planning**: the projects in this category can be planned regardless budget availability
-  * **Must be in program**: the projects in this category must be added to a [Program](/pipeline/index/#programs)
+  * **Must be in program**: the projects in this category must be added to a Program
   * **Invoice driven budget**: the value of the projects on this category changes based on the total invoiced for that project. This logic also updates the Invoice Plan and the Production value. You can use this flag on all the project categories in which you are not sure of the final price because it can vary slightly based on external factors. You can then set a budget with an approximate price and let the issued invoices adjust the final price as a result of the delta between the ‘invoice plan’ and the real invoice.
   * **Capex**: the projects in this category must be treated as investments
   * **Workable**: you can switch off this option for projects used to track holidays or permits, this way timesheets done on them are not used to calculate chargeability
