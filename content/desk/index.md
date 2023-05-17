@@ -5,6 +5,8 @@ title: Desk
 type: ''
 ---
 
+![](</Schermata 2022-11-29 alle 18.00.54.png>)
+
 ## Overview
 
 The Desk is your private space and your favorite place. Here you can find a set of utilities and widgets all for you.
