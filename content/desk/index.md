@@ -1,7 +1,7 @@
 ---
-weight: '20'
 date: 2020-03-31T22:00:00.000Z
 title: Desk
+weight: '20'
 type: ''
 ---
 
@@ -41,4 +41,4 @@ Here you have a list of all the expired invoices or that have due date this mont
 
 ## Intercompany Activity
 
-Keep an eye on intercompany activities, whether an invitation to an intercompany project is pending or has been accepted by a supplier in your group.
+Keep an eye on intercompany activities, whether an invitation to an intercompany project is pending or has been accepted by a supplier in your group. 

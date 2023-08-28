@@ -1,7 +1,9 @@
 ---
-date: 2017-08-29T08:41:03.000Z
+date: 2017-08-29T08:41:03.000+00:00
 title: Payroll
-weight: '93'
+weight: "93"
+type: ''
+
 ---
 
 ## Overview
@@ -59,16 +61,22 @@ Here's the employees' salary for the current year.
 Each *Employee* has at least a **segment** which represents a work contract between that employee and the company. Every segment has:
 
 * **Start month**
+
 * **End month**
+
 * **Gross monthly salary**
+
 * **Taxes**
+
 * **Business Unit** (Available only if the [module](/settings/index/#business-unit) Business Unit is enabled)
 
 You can access the segments for a specific employee just by clicking on the employee's row. Each time you edit a list of the segments, this influences the employee's *salary distribution*: a line where all segments are visually represented, allowing you to quickly understand how many times the salary of an employee is changed during the year.
 
+
 Use the **Reset payroll** button take all payroll's rows down to zero, once done you can use the **Import payroll** button to copy all the payroll's rows from the previous year.
 
 {{< note title="Note" >}}
+
 **It is not possible to delete the last segment of an Employee.**
 
 **It is not possible to save a new segment until you fill all the required fields.**
