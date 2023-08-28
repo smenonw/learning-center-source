@@ -24,6 +24,8 @@
 
 	<article class="article">
 		<div class="wrapper">
+			<div>Language {{ .Language }}</div>
+
 			<h1>{{ .Title }} {{ if .IsDraft }} (Draft){{ end }}</h1>
 			
 			{{ .Content }}
