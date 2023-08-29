@@ -44,7 +44,7 @@ export function defaultFields() {
       label: "Language",
       name: "language",
       list: false,
-      options: [ {
+      options: [{
         value: null,
         label: 'Default',
       }, {
