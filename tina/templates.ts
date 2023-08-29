@@ -44,6 +44,11 @@ export function defaultFields() {
       label: "Language",
       name: "language",
       list: false,
+      ui: {
+        defaultItem: () => {
+            return "en";
+        }
+      },
       options: [{
         value: '',
         label: 'Default',
