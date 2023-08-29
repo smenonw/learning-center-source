@@ -85,14 +85,14 @@
 }
 
 .tab a {
-	color: black;
+	color: black !important;
 	font-weight: bold;
 	text-decoration: none;
 	border: none;
 }
 
 .tab--selected a {
-	color: white;
+	color: white !important;
 }
 
 .actions-right {
