@@ -1,9 +1,12 @@
 <div class="actions-right">
+    <div>
+        Language: {{ .Params.language }}
+    </div>
     {{ if .Params.language }}
     <div>
         <div class="tabs">
-            <div class='{{ if eq .Params.language "it" }} tab tab--selected {{ else }} tab {{ end }}'><a href="/desk/desk2/ita">IT</a></div>
-            <div class='{{ if eq .Params.language "en" }} tab tab--selected {{ else }} tab {{ end }}'><a href="/desk/desk2/eng">EN</a></div>
+            <div class='{{ if eq .Params.language "it" }} tab tab--selected {{ else }} tab {{ end }}'><a href="/desk/desk2/it">IT</a></div>
+            <div class='{{ if eq .Params.language "en" }} tab tab--selected {{ else }} tab {{ end }}'><a href="/desk/desk2/en">EN</a></div>
         </div>
     </div>
     {{ end }}
