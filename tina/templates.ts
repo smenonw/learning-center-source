@@ -60,6 +60,11 @@ export function defaultFields() {
       name: "date",
       label: "Date",
       required: true,
+      defaultItem: () => {
+        return {
+          date: new Date().toISOString(),
+        }
+      },
     },
     {
       type: "string",
@@ -77,6 +82,11 @@ export function defaultFields() {
       name: "weight",
       label: "Weight",
       required: true,
+      defaultItem: () => {
+        return {
+          weight: 0,
+        }
+      }
     },
   ] as TinaField[];
 }
