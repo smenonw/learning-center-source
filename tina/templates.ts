@@ -45,10 +45,10 @@ export function defaultFields() {
       name: "language",
       list: false,
       options: [{
-        value: 'EN',
+        value: 'en',
         label: 'English',
       }, {
-        value: 'IT',
+        value: 'it',
         label: 'Italian',
       }],
     },
