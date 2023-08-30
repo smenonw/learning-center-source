@@ -106,7 +106,6 @@ weight = 2
 name = "Getting started"
 url = "getting-started/index/"
 weight = 1
-highlight = true;
 [[menu.other]]
 name = "Glossary"
 url = "glossary/index/"
