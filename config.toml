@@ -66,38 +66,56 @@ weight = 1
 name = "Settings"
 url = "settings/index/"
 weight = 11
+[menu.main.params]
+    highlight = false
 [[menu.main]]
 name = "Finance"
 url = "finance/index/"
 weight = 10
+[menu.main.params]
+    highlight = false
 [[menu.main]]
 name = "Reports"
 url = "reports/index/"
 weight = 9
+[menu.main.params]
+    highlight = false
 [[menu.main]]
 name = "Friday"
 url = "friday/index/"
 weight = 8
+[menu.main.params]
+    highlight = false
 [[menu.main]]
 name = "Planning"
 url = "planning/index/"
 weight = 7
+[menu.main.params]
+    highlight = false
 [[menu.main]]
 name = "Budget"
 url = "budget/index/"
 weight = 6
+[menu.main.params]
+    highlight = false
 [[menu.main]]
 name = "Pipeline"
 url = "pipeline/index/"
 weight = 5
+[menu.main.params]
+    highlight = false
 [[menu.main]]
 name = "Alerts"
 url = "alerts/index/"
 weight = 4
+[menu.main.params]
+    highlight = false
 [[menu.main]]
 name = "Dashboard"
 url = "dashboard/index/"
 weight = 3
+[menu.main.params]
+    highlight = false
 [[menu.main]]
 name = "Desk"
 url = "desk/index/"
