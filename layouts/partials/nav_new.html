@@ -1,0 +1,7 @@
+{{ $currentNode := . }}
+
+{{ range .Site.Menus.new }}
+<li>
+    {{ partial "nav_link" $currentNode }}
+</li>
+{{ end }}

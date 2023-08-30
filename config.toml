@@ -114,6 +114,18 @@ weight = 2
 name = "FAQ"
 url = "faq/index/"
 weight = 1
+[[menu.new]]
+name = "New"
+url = "new/index/"
+weight = 1
+ [menu.new.params]
+    class = 'new-menu'
+[[menu.new]]
+name = "New-2"
+url = "new-2/index/"
+weight = 2
+ [menu.new.params]
+    class = 'new-menu'
 [params]
 author = "Andrea Tombolato"
 copyright = ""
