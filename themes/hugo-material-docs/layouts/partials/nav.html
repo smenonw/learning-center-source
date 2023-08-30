@@ -3,7 +3,7 @@
 {{ range .Site.Menus.main.ByWeight }}
 
 {{ $.Scratch.Set "currentMenuEntry" . }}
-<li>
+<li class="base-menu">
   {{ if .HasChildren }}
     <span class="section">{{ .Name | title }}</span>
     <ul>
