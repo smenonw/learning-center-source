@@ -1,6 +1,4 @@
-{{ $currentNode := . }}
-
-{{ range .Site.Menus.new }}
+{{ range site.Menus.new }}
 <li>
     {{ .Name }}
     {{ if .Params }}
