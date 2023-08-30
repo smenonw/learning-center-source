@@ -3,7 +3,6 @@ date: 2016-03-09T22:00:00.000+00:00
 title: Getting Started
 weight: "10"
 type: ''
-highlight: true,
 
 ---
 ## Warm Up
