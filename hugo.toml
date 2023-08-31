@@ -117,7 +117,7 @@ url = "faq/index/"
 weight = 1
 [[menu.new]]
 name = "New"
-url = "new/index/"
+url = "new/new1/"
 weight = 1
  [menu.new.params]
     class = 'highlight'
