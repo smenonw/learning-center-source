@@ -10,6 +10,7 @@ fractions = true
 plainIDAnchors = true
 smartDashes = true
 smartypants = true
+disableKinds = ['taxonomy', 'term']
 [[menu.company]]
 name = "Order Plan"
 url = "order-plan/index/"
