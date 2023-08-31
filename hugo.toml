@@ -120,13 +120,13 @@ name = "New"
 url = "new/index/"
 weight = 1
  [menu.new.params]
-    class = 'new-menu'
+    class = 'highlight'
 [[menu.new]]
 name = "New-2"
 url = "new/new2/"
 weight = 2
  [menu.new.params]
-    class = 'new-menu'
+    class = 'highlight'
 [params]
 author = "Andrea Tombolato"
 copyright = ""
