@@ -1,8 +1,5 @@
 {{ range .Site.Menus.new }}
 <li>
     {{ .Name }}
-    {{ if .Params }}
-    {{ .Params.class }}
-    {{ end }}
 </li>
 {{ end }}
