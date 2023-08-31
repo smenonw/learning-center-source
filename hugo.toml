@@ -13,107 +13,107 @@ smartypants = true
 disableKinds = ['taxonomy', 'term']
 [[menu.company]]
 name = "Order Plan"
-url = "order-plan/index/"
+url = "order-plan/"
 weight = 10
 [[menu.company]]
 name = "Invoice Plan"
-url = "invoice-plan/index/"
+url = "invoice-plan/"
 weight = 9
 [[menu.company]]
 name = "Capex"
-url = "capex/index/"
+url = "capex/"
 weight = 8
 [[menu.company]]
 name = "Marketing"
-url = "marketing/index/"
+url = "marketing/"
 weight = 7
 [[menu.company]]
 name = "G & A"
-url = "general-admin/index/"
+url = "general-admin/"
 weight = 6
 [[menu.company]]
 name = "Payroll"
-url = "payroll/index/"
+url = "payroll/"
 weight = 5
 [[menu.company]]
 name = "Gross Margin"
-url = "gross-margin/index/"
+url = "gross-margin/"
 weight = 4
 [[menu.company]]
 name = "External Costs"
-url = "external-costs/index/"
+url = "external-costs/"
 weight = 3
 [[menu.company]]
 name = "Revenues"
-url = "revenues/index/"
+url = "revenues/"
 weight = 2
 [[menu.company]]
 name = "Profit & Loss"
-url = "profit-loss/index/"
+url = "profit-loss/"
 weight = 1
 [[menu.group]]
 name = "Setup"
-url = "group-setup/index/"
+url = "group-setup/"
 weight = 3
 [[menu.group]]
 name = "Revenues"
-url = "group-revenues/index/"
+url = "group-revenues/"
 weight = 2
 [[menu.group]]
 name = "Profit & Loss"
-url = "group-profit-loss/index/"
+url = "group-profit-loss/"
 weight = 1
 [[menu.main]]
 name = "Settings"
-url = "settings/index/"
+url = "settings/"
 weight = 11
 [[menu.main]]
 name = "Finance"
-url = "finance/index/"
+url = "finance/"
 weight = 10
 [[menu.main]]
 name = "Reports"
-url = "reports/index/"
+url = "reports/"
 weight = 9
 [[menu.main]]
 name = "Friday"
-url = "friday/index/"
+url = "friday/"
 weight = 8
 [[menu.main]]
 name = "Planning"
-url = "planning/index/"
+url = "planning/"
 weight = 7
 [[menu.main]]
 name = "Budget"
-url = "budget/index/"
+url = "budget/"
 weight = 6
 [[menu.main]]
 name = "Pipeline"
-url = "pipeline/index/"
+url = "pipeline/"
 weight = 5
 [[menu.main]]
 name = "Alerts"
-url = "alerts/index/"
+url = "alerts/"
 weight = 4
 [[menu.main]]
 name = "Dashboard"
-url = "dashboard/index/"
+url = "dashboard/"
 weight = 3
 [[menu.main]]
 name = "Desk"
-url = "desk/index/"
+url = "desk/"
 weight = 2
 [[menu.main]]
 name = "Getting started"
-url = "getting-started/index/"
+url = "getting-started/"
 weight = 1
 [[menu.other]]
 name = "Glossary"
-url = "glossary/index/"
+url = "glossary/"
 weight = 2
 [[menu.other]]
 name = "FAQ"
-url = "faq/index/"
+url = "faq/"
 weight = 1
 [[menu.new]]
 name = "New"

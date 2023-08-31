@@ -19,7 +19,7 @@ This enables WETHOD to create a system where everybody collaborate and keep info
 
 Just few elements are needed in order to get things working:
 
-* A project [budget](/budget/index);
+* A project [budget](/budget/_index);
 
 * The weekly [timesheet](/friday/index/#timesheet);
 
@@ -65,6 +65,6 @@ The content of this guide is organized as the WETHOD app sections so, to make yo
 
 * If our explanation doesn't fit for you:
 
-	* Use the [FAQ](/faq/index) section to find popular questions about WETHOD or make a new one;
+	* Use the [FAQ](/faq/_index) section to find popular questions about WETHOD or make a new one;
 
 	* Send us an email at **info@wethod.com**, we'll answer you as soon as possible.
