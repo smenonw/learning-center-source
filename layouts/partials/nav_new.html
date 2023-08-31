@@ -1,10 +1,19 @@
-{{ range .Site.Menus.new }}
+{{ $currentNode := . }}
+
+{{ range .Site.Menus.other.ByWeight }}
+
+{{ $.Scratch.Set "currentMenuEntry" . }}
 <li>
-    {{ .Name }}
-    {{ with .Page }}
-      {{ with .Params.language }}
-        {{ . }}
-      {{ end }}
+    {{ if .HasChildren }}
+    <span class="section">{{ .Name | title }}</span>
+    <ul>
+        {{ range .Children }}
+        {{ $.Scratch.Set "currentMenuEntry" . }}
+            {{ partial "nav_link" $currentNode }}
+        {{ end }}
+    </ul>
+    {{ else }}
+        {{ partial "nv_link_new" $currentNode }}
     {{ end }}
 </li>
 {{ end }}
