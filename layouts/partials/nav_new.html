@@ -1,5 +1,10 @@
 {{ range .Site.Menus.new }}
 <li>
     {{ .Name }}
+    {{ with .Page }}
+      {{ with .Params.language }}
+        {{ . }}
+      {{ end }}
+    {{ end }}
 </li>
 {{ end }}
